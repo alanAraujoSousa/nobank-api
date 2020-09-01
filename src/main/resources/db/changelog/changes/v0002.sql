@@ -1,0 +1,1 @@
+INSERT INTO `account` (id, money_amount) values (349244, 100), (349245, 50), (349246, 0);
